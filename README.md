@@ -1,2 +1,2 @@
 # CampusJobSearch
-Text me when a new position is put on the campus job site.
+Output all on campus jobs at RIT
