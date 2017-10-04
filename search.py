@@ -8,8 +8,8 @@ import smtplib
 jobs_begin = "https://www.rit.edu/emcs/seo/students/oncampus/"
 jobs_ends = ["ac", "at", "cl", "cs", "ct", "fs", "mt", "mc", "sv"]
 jobs_names = ["Academic", "Atheltic", "Clerical", "Community Service", "Computer / Technical", "Food Service", "Maintenance", "Miscellaneous", "Services"]
-#mail_to = "7248142980@vtext.com"
-mail_to = "becksteadn@gmail.com"
+#mail_to = "dest@example.com"
+mail_to = "sender@example.com"
 mail_from = "Job Search Bot"
 mail_subject = "Campus Job Search"
 mail_server = "smtp.gmail.com"
