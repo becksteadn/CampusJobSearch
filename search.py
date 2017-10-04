@@ -35,7 +35,7 @@ def sendText(body):
     try:
         s = smtplib.SMTP(mail_server)
         s.starttls()
-        s.login("becksteadn", "bwxcebvaezpsdiow")
+        s.login("EMAIL-HERE", "LOGIN-HERE")
         s.sendmail(mail_from, [mail_to], msg.as_string())
         s.quit()
         print("Email sent")
